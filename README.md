@@ -32,6 +32,12 @@
 - [Функциональное программирование на языке Haskell I][c-stepik-1]
 - [Функциональное программирование на языке Haskell II][c-stepik-2]
 
+## Amaliy yondashuvga asoslangan kurslar
+
+### Ingliz tilida
+
+- [FP-Course][pc-fp-course]
+
 ## Video seriyalar
 
 ### Ingliz tilida
@@ -65,3 +71,5 @@
 
 [p-hackage]: https://hackage.haskell.org
 [p-hoogle]: https://hoogle.haskell.org
+
+[pc-fp-course]: https://github.com/system-f/fp-course
