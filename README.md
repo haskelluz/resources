@@ -48,6 +48,12 @@
 
 - [Функциональное программирование (весна 2022)][v-csc-fp] - Computer Science Center
 
+## Konferensiyalar
+
+### Lambda Conference
+
+- [Haskell Type Classes][conf-lc-2024-june-haskell-type-classes] - Haskelldagi tip klasslar va ularning ierarxiyasi haqida.
+
 ## Paketlar
 
 - [Hackage][p-hackage] - Paketlar indeksi
@@ -68,6 +74,8 @@
 
 [v-haskell-for-imperative-programmers]: https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV
 [v-csc-fp]: https://www.youtube.com/playlist?list=PLlb7e2G7aSpTDub2LFDVBvvjWj-53Gfuh
+
+[conf-lc-2024-june-haskell-type-classes]: ./conferences/Lambda%20Conference/2024/June/Haskell%20Type%20Classes/README.md
 
 [p-hackage]: https://hackage.haskell.org
 [p-hoogle]: https://hoogle.haskell.org
