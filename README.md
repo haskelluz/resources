@@ -36,7 +36,7 @@
 
 ### Ingliz tilida
 
-- [FP-Course][pc-fp-course]
+- [Functional Programming Course (Tony Morris & Mark Hibberd)][pc-fp-course]
 
 ## Video seriyalar
 
