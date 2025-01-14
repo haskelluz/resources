@@ -20,7 +20,7 @@ sum Nil = 0
 sum (Cons x xs) = x + sum xs
 ```
 
-OOP da esa biz "codata" bilan ishlaymiz. Bunga yaqqol misol Agda'dagi "Corecursive Record" lar:
+OOP da esa biz "codata" bilan ishlaymiz. Bunga yaqqol misol Agda'dagi ["Coinductive Record"](https://agda.readthedocs.io/en/latest/language/coinduction.html) lar:
 
 ```agda
 record Stream (A : Set) : Set where
@@ -49,7 +49,7 @@ Agda'dagi `Stream` esa:
 
 Albatta bu OOP haqidagi hamma narsa emas, shuning uchun, batafsil ma'lumot olmoqchi bo'lsangiz bu maqolani o'qishni maslahat beramiz:
 
-- ["Deriving Dependently-Typed OOP from First Principles"](https://dl.acm.org/doi/pdf/10.1145/3649846)
+- [Deriving Dependently-Typed OOP from First Principles](https://dl.acm.org/doi/pdf/10.1145/3649846)
 
 > [!WARNING]
 > OOP deganda hammani hayoliga, qaysi tillar bilan tanishligiga qarab har hil fikrlar keladi. "Qaysi tilda OOP to'g'ri Java'dami, JavaScript'dami, [Erlang][erlang-interview]'dami, [Smalltalk][smalltalk]'dami yoki Common Lisp'dagi [CLOS][clos]'dami?" degan kabi savollar tug'ilishi oddiy hol. Hech qaysi tildagi OOP ga suyanmasdan OOP konseptini o'zini o'rganishni maslahat berib qolamiz. Chunki ba'zi tillardagi bor narsalar boshqalarida yo'q bo'lisi mumkin. Qaysidir implementatsiyaga bog'lanib qolish yana tarafkashlikka olib keladi.
