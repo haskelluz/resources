@@ -112,6 +112,10 @@ graph TD
 - [Hackage][p-hackage] - Paketlar indeksi
 - [Hoogle][p-hoogle] - Paket qidiruv tizimi
 
+### Boshqa ma'lumotnomalar
+
+- [Formal Verifikatsiya bo'yicha manbaalar ma'lumotnomasi](./FORMAL_VERIFICATION.md)
+
 [b-get-programming-with-haskell]: https://www.manning.com/books/get-programming-with-haskell
 [b-real-world-haskell]: https://book.realworldhaskell.org/read
 [b-learn-you-haskell]: http://learnyouahaskell.com/chapters
