@@ -96,6 +96,10 @@ graph TD
 ### Ingliz tilida
 
 - [Haskell for Imperative Programmers][v-haskell-for-imperative-programmers] - Philipp Hagenlocher
+  
+- [Introduction to Haskell][https://www.youtube.com/playlist?list=PLD8gywOEY4HauPWPfH0pJPIYUWqi0Gg10] - Andres Löh
+
+- [The Haskell Unfolder][https://www.youtube.com/playlist?list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7] - Andres Löh and Edsko de Vries.
 
 ### Rus tilida
 
