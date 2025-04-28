@@ -10,12 +10,9 @@
 - [Real World Haskell][b-real-world-haskell]
 - [Learn You a Haskell for a Great Good][b-learn-you-haskell]
 
-#### O'rta
+#### Amaliyotchi
 
 - [Effective Haskell][b-effective-haskell]
-
-#### Oliy
-
 - [Haskell in Depth][b-haskell-in-depth]
 - [Thinking with Types][b-thinking-with-types]
 - [Production Haskell][b-production-haskell]
