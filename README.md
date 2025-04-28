@@ -25,42 +25,39 @@
 
 ```mermaid
 graph TD
-    A1[Basic Haskell]
-    A2[Intermediate Haskell]
-    A3[Advanced Haskell]
+    L1[Beginner]
+    L2[Practitioner]
 
-    A1 --> B1_1[Get Programming with Haskell]
-    A1 --> B1_2[Real World Haskell]
-    A1 --> B1_3[Learn You a Haskell for a Great Good]
-    A1 --> C1_1[Haskell MOOC]
-    A1 --> C1_2[Функциональное программирование на языке Haskell I]
-    A1 --> V1_1[Haskell for Imperative Programmers]
-    A1 --> V1_2["Функциональное программирование (весна 2022)"]
-    A1 --> V1_3[Introduction to Haskell]
+    L1 --> B1_1[Get Programming with Haskell]
+    L1 --> B1_2[Real World Haskell]
+    L1 --> B1_3[Learn You a Haskell for a Great Good]
+    L1 --> C1_1[Haskell MOOC]
+    L1 --> C1_2[Функциональное программирование на языке Haskell I]
+    L1 --> V1_1[Haskell for Imperative Programmers]
+    L1 --> V1_2["Функциональное программирование (весна 2022)"]
+    L1 --> V1_3[Introduction to Haskell]
 
     C1_2 --> C1_3[Функциональное программирование на языке Haskell II]
 
-    A2 --> B2_1[Effective Haskell]
-    A2 --> C2_1["Functional Programming Course (Tony Morris & Mark Hibberd)"]
-    A2 --> V2_1[The Haskell Unfolder]
+    L2 --> B2_1[Effective Haskell]
+    L2 --> C2_1["Functional Programming Course (Tony Morris & Mark Hibberd)"]
+    L2 --> V2_1[The Haskell Unfolder]
+    L2 --> B2_2[Haskell in Depth]
+    L2 --> B2_3[Thinking with Types]
+    L2 --> B2_4[Production Haskell]
+    L2 --> B2_5[Parallel and Concurrent Programming in Haskell]
 
-    A3 --> B3_1[Haskell in Depth]
-    A3 --> B3_2[Thinking with Types]
-    A3 --> B3_3[Production Haskell]
-    A3 --> B3_4[Parallel and Concurrent Programming in Haskell]
-
-    B1_1 & B1_2 & B1_3 & C1_1 & C1_3 & V1_1 & V1_2 --> A2
-    B2_1 & A2 & C2_1 --> A3
+    B1_1 & B1_2 & B1_3 & C1_1 & C1_3 & V1_1 & V1_2 & V1_3 --> L2
 
     subgraph "Books"
     B1_1
     B1_2
     B1_3
     B2_1
-    B3_1
-    B3_2
-    B3_3
-    B3_4
+    B2_2
+    B2_3
+    B2_4
+    B2_5
     end
 
     subgraph "Courses"
