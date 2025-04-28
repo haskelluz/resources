@@ -36,11 +36,13 @@ graph TD
     A1 --> C1_2[Функциональное программирование на языке Haskell I]
     A1 --> V1_1[Haskell for Imperative Programmers]
     A1 --> V1_2["Функциональное программирование (весна 2022)"]
+    A1 --> V1_3[Introduction to Haskell]
 
     C1_2 --> C1_3[Функциональное программирование на языке Haskell II]
 
     A2 --> B2_1[Effective Haskell]
     A2 --> C2_1["Functional Programming Course (Tony Morris & Mark Hibberd)"]
+    A2 --> V2_1[The Haskell Unfolder]
 
     A3 --> B3_1[Haskell in Depth]
     A3 --> B3_2[Thinking with Types]
@@ -71,6 +73,8 @@ graph TD
     subgraph "Video series"
     V1_1
     V1_2
+    V1_3
+    V2_1
     end
 ```
 
@@ -96,6 +100,8 @@ graph TD
 ### Ingliz tilida
 
 - [Haskell for Imperative Programmers][v-haskell-for-imperative-programmers] - Philipp Hagenlocher
+- [Introduction to Haskell][v-introduction-to-haskell] - Andres Löh
+- [The Haskell Unfolder][v-the-haskell-unfolder] - Andres Löh va Edsko de Vries.
 
 ### Rus tilida
 
@@ -131,6 +137,8 @@ graph TD
 
 [v-haskell-for-imperative-programmers]: https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV
 [v-csc-fp]: https://www.youtube.com/playlist?list=PLlb7e2G7aSpTDub2LFDVBvvjWj-53Gfuh
+[v-introduction-to-haskell]: https://www.youtube.com/playlist?list=PLD8gywOEY4HauPWPfH0pJPIYUWqi0Gg10
+[v-the-haskell-unfolder]: https://www.youtube.com/playlist?list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7
 
 [conf-lc-2024-june-haskell-type-classes]: ./conferences/Lambda%20Conference/2024/June/Haskell%20Type%20Classes/README.md
 
