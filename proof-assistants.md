@@ -5,7 +5,7 @@ Asosiy isbot assistentlari:
 - Agda
 - Lean
 - Rocq (sobiq Coq)
-- Isabelle/HOL
+- Isabelle
 
 ## Agda
 
@@ -19,6 +19,6 @@ Asosiy isbot assistentlari:
 
 - [Verb sahifa](https://rocq-prover.org/)
 
-## Isabelle/HOL
+## Isabelle
 
 - [Verb sahifa](https://isabelle.in.tum.de/)
