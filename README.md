@@ -6,6 +6,7 @@
 
 #### Boshlang'ich
 
+- [Learn Haskell by Example][b-learn-haskell-by-example]
 - [Get Programming with Haskell][b-get-programming-with-haskell]
 - [Real World Haskell][b-real-world-haskell]
 - [Learn You a Haskell for a Great Good][b-learn-you-haskell]
@@ -18,7 +19,7 @@
 - [Production Haskell][b-production-haskell]
 - [Parallel and Concurrent Programming in Haskell][b-parallel-and-concurrent-programming-in-haskell]
 
-### Roadmap
+### Xarita
 
 ```mermaid
 graph TD
@@ -116,6 +117,7 @@ graph TD
 
 - [Formal Verifikatsiya bo'yicha manbaalar ma'lumotnomasi](./FORMAL_VERIFICATION.md)
 
+[b-learn-haskell-by-example]: https://www.manning.com/books/learn-haskell-by-example
 [b-get-programming-with-haskell]: https://www.manning.com/books/get-programming-with-haskell
 [b-real-world-haskell]: https://book.realworldhaskell.org/read
 [b-learn-you-haskell]: http://learnyouahaskell.com/chapters
