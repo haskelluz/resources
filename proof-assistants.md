@@ -1,11 +1,6 @@
 # Isbot assistentlari
 
-Asosiy isbot assistentlari:
-
-- Agda
-- Lean
-- Rocq (sobiq Coq)
-- Isabelle
+Isbot assistenti (Inglizchada "proof assistant"), yohud (interaktiv) teorema isbotlovchi (Inglizchada "(interactive) theorem prover") [formal isbot](./formal-proof.md)lar ustida ishlashga yordam beruvchi dasturlardir. Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabelle) va boshqalar misol bo'la oladi.
 
 ## Agda
 
