@@ -6,9 +6,23 @@ Isbot assistenti (Inglizchada "proof assistant"), yohud (interaktiv) teorema isb
 
 - [Veb sahifa](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 
+TODO: talk about Cubical Agda
+
 ## Lean
 
 - [Veb sahifa](https://lean-lang.org/)
+
+### Resurslar
+
+#### Kitoblar
+
+- [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
+- [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/)
+- [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/)
+
+#### Interaktiv kurslar
+
+- [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
 
 ## Rocq
 
