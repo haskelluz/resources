@@ -115,7 +115,7 @@ graph TD
 
 ### Boshqa ma'lumotnomalar
 
-- [Formal Verifikatsiya bo'yicha manbaalar ma'lumotnomasi](./FORMAL_VERIFICATION.md)
+- [Formal Verifikatsiya bo'yicha manbaalar ma'lumotnomasi](./formal-verification.md)
 
 [b-learn-haskell-by-example]: https://www.manning.com/books/learn-haskell-by-example
 [b-get-programming-with-haskell]: https://www.manning.com/books/get-programming-with-haskell
