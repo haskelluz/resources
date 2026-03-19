@@ -10,6 +10,7 @@
 - [Get Programming with Haskell][b-get-programming-with-haskell]
 - [Real World Haskell][b-real-world-haskell]
 - [Learn You a Haskell for a Great Good][b-learn-you-haskell]
+- [Learn Haskell by building a blog generator][b-learn-haskell-blog]
 
 #### Amaliyotchi
 
@@ -29,6 +30,7 @@ graph TD
     L1 --> B1_1[Get Programming with Haskell]
     L1 --> B1_2[Real World Haskell]
     L1 --> B1_3[Learn You a Haskell for a Great Good]
+    L1 --> B1_4[Learn Haskell by building a blog generator]
     L1 --> C1_1[Haskell MOOC]
     L1 --> C1_2[Функциональное программирование на языке Haskell I]
     L1 --> V1_1[Haskell for Imperative Programmers]
@@ -45,12 +47,13 @@ graph TD
     L2 --> B2_4[Production Haskell]
     L2 --> B2_5[Parallel and Concurrent Programming in Haskell]
 
-    B1_1 & B1_2 & B1_3 & C1_1 & C1_3 & V1_1 & V1_2 & V1_3 --> L2
+    B1_1 & B1_2 & B1_3 & B1_4 & C1_1 & C1_3 & V1_1 & V1_2 & V1_3 --> L2
 
     subgraph "Books"
     B1_1
     B1_2
     B1_3
+    B1_4
     B2_1
     B2_2
     B2_3
@@ -121,6 +124,7 @@ graph TD
 [b-get-programming-with-haskell]: https://www.manning.com/books/get-programming-with-haskell
 [b-real-world-haskell]: https://book.realworldhaskell.org/read
 [b-learn-you-haskell]: http://learnyouahaskell.com/chapters
+[b-learn-haskell-blog]: https://learn-haskell.blog/
 [b-effective-haskell]: https://pragprog.com/titles/rshaskell/effective-haskell
 [b-haskell-in-depth]: https://www.manning.com/books/haskell-in-depth
 [b-thinking-with-types]: https://thinkingwithtypes.com/
