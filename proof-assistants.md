@@ -27,10 +27,10 @@ TODO: talk about Cubical Agda
 ## Rocq
 
 - [Veb sahifa](https://rocq-prover.org/)
-- [Programs and proofs](https://github.com/ilyasergey/pnp) - Kichik, amaliy, va zich kitob
-- [MPCTT](https://github.com/uds-psl/MPCTT) - Rocq-ning fundamentlari haqida
-- [Software foundations](https://softwarefoundations.cis.upenn.edu/)
-- [Iris-tutorial](https://github.com/logsem/iris-tutorial) - Iris orqali konkurrent dasturlarning xavfsizligini isbotlash
+- [Programs and Proofs](https://github.com/ilyasergey/pnp) — Kichik, amaliy, va zich kitob
+- [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) — Rocq-ning fundamentlari haqida
+- [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
+- [Iris tutorial](https://github.com/logsem/iris-tutorial) — Iris orqali konkurrent dasturlarning xavfsizligini isbotlash
 
 ## Isabelle
 
