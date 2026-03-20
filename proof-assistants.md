@@ -2,35 +2,44 @@
 
 Isbot assistenti (Inglizchada "proof assistant"), yohud (interaktiv) teorema isbotlovchi (Inglizchada "(interactive) theorem prover") [formal isbot](./formal-proof.md)lar ustida ishlashga yordam beruvchi dasturlardir. Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabelle) va boshqalar misol bo'la oladi.
 
-## Agda
-
-- [Veb sahifa](https://wiki.portal.chalmers.se/agda/pmwiki.php)
-
-TODO: talk about Cubical Agda
-
 ## Lean
 
 - [Veb sahifa](https://lean-lang.org/)
 
-### Resurslar
+Lean — klassik sof matematika uchun moslashgan assistant.  Leanda **mathlib** nomli juda katta formallashtirilgan matematika kutubxonasi bor.  Leanda eng kuchli makros sistema bor, va taktikalar(tactics)dan foydalanib isbotlar yoziladi.
 
-#### Kitoblar
+### Kitoblar
 
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
 - [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/)
 - [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/)
 
-#### Interaktiv kurslar
+### Interaktiv kurslar
 
 - [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/NNG4)
 
 ## Rocq
 
 - [Veb sahifa](https://rocq-prover.org/)
+
+Rocq tarixiy jihatdan eng mashhur isbot assistenti, va ko'p holda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.  Misol uchun Rocqda **SSReflect** kutubxonasi, Iris frameworki, va bugsiz C kompillyator (CompCert) yozilgan.  SSReflect kutubxonasi diskret matematika uchun mo'ljallangan.  Rocqning qiziq jihatidan biri — Rocqda yozilgan kodni OCaml va Haskellga **extract** qilsa bo'ladi.
+
+### Kitoblar
+
 - [Programs and Proofs](https://github.com/ilyasergey/pnp) — Kichik, amaliy, va zich kitob
 - [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) — Rocq-ning fundamentlari haqida
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
 - [Iris tutorial](https://github.com/logsem/iris-tutorial) — Iris orqali konkurrent dasturlarning xavfsizligini isbotlash
+
+## Agda
+
+- [Veb sahifa](https://wiki.portal.chalmers.se/agda/pmwiki.php)
+
+Agda — bu funksional dasturlash tili bo'lib, unda isbotlar yozish dasturlar yozish bilan bir xil.  U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur bo'lib, unda siz kodingizda "teshiklarni" qoldirasiz va typelarga asoslanib Agdadan ularni to'ldirishda yordam so'raysiz.  Cubical kutubxonasi orqali Agda [HoTT](https://homotopytypetheory.org/book/)ni yaxshi qo'llab-quvvatlaydi.  Agdada boshqa tillarda yo'q ekzotik xususiyatlar ko'p.  Konstruktiv logikalar haqida o'rganmoqchi bo'lsangiz Agda yaxshi tanlov.
+
+### Resources
+
+- [The HoTT Game](https://thehottgameguide.readthedocs.io/en/latest/)
 
 ## Isabelle
 
