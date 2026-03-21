@@ -39,6 +39,7 @@ Agda — bu funksional dasturlash tili bo'lib, unda isbotlar yozish dasturlar yo
 
 ### Resources
 
+- [Programming Language Foundations in Agda](https://plfa.github.io/)
 - [The HoTT Game](https://thehottgameguide.readthedocs.io/en/latest/)
 
 ## Isabelle
