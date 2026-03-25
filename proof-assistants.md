@@ -41,11 +41,11 @@ Rocq'ning qiziqarli jihatlaridan biri — Rocq'da yozilgan kodni OCaml va Haskel
 
 - [Veb-sahifa](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 
-Agda — bu funksional dasturlash tili bo'lib, unda isbotlar yozish dasturlar yozish bilan bir xil.
-U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur bo'lib, unda siz kodingizda "teshiklarni" qoldirasiz va typelarga asoslanib Agdadan ularni to'ldirishda yordam so'raysiz.
+Agda — funksional dasturlash tili bo'lib, unda isbot yozish dastur yozish bilan bir xil.
+U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur bo'lib, unda siz kodingizda "teshiklar" qoldirasiz va tiplarga asoslanib Agda'dan ularni to'ldirishda yordam so'raysiz.
 Cubical kutubxonasi orqali Agda [HoTT](https://homotopytypetheory.org/book/)ni yaxshi qo'llab-quvvatlaydi.
-Agdada boshqa tillarda yo'q ekzotik xususiyatlar ko'p.
-Konstruktiv logikalar haqida o'rganmoqchi bo'lsangiz Agda yaxshi tanlov.
+Agda'da boshqa tillarda uchramaydigan ekzotik xususiyatlar ko'p.
+Konstruktiv mantiq haqida o'rganmoqchi bo'lsangiz, Agda yaxshi tanlov.
 
 ### Kitoblar
 
