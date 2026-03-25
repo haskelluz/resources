@@ -1,12 +1,15 @@
 # Isbot assistentlari
 
-Isbot assistenti (Inglizchada "proof assistant"), yohud (interaktiv) teorema isbotlovchi (Inglizchada "(interactive) theorem prover") [formal isbot](./formal-proof.md)lar ustida ishlashga yordam beruvchi dasturlardir. Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabelle) va boshqalar misol bo'la oladi.
+Isbot assistenti (Inglizchada "proof assistant"), yohud (interaktiv) teorema isbotlovchi (Inglizchada "(interactive) theorem prover") [formal isbot](./formal-proof.md)lar ustida ishlashga yordam beruvchi dasturlardir.
+Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabelle) va boshqalar misol bo'la oladi.
 
 ## Lean
 
 - [Veb sahifa](https://lean-lang.org/)
 
-Lean — klassik sof matematika uchun moslashgan assistant.  Leanda **mathlib** nomli juda katta formallashtirilgan matematika kutubxonasi bor.  Leanda eng kuchli makros sistema bor, va taktikalar(tactics)dan foydalanib isbotlar yoziladi.
+Lean — klassik sof matematika uchun moslashgan assistant.
+Leanda **mathlib** nomli juda katta formallashtirilgan matematika kutubxonasi bor.
+Leanda eng kuchli makros sistema bor, va taktikalar(tactics)dan foydalanib isbotlar yoziladi.
 
 ### Kitoblar
 
@@ -22,7 +25,10 @@ Lean — klassik sof matematika uchun moslashgan assistant.  Leanda **mathlib** 
 
 - [Veb sahifa](https://rocq-prover.org/)
 
-Rocq tarixiy jihatdan eng mashhur isbot assistenti, va ko'p holda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.  Misol uchun Rocqda **SSReflect** kutubxonasi, Iris frameworki, va bugsiz C kompillyator (CompCert) yozilgan.  SSReflect kutubxonasi diskret matematika uchun mo'ljallangan.  Rocqning qiziq jihatidan biri — Rocqda yozilgan kodni OCaml va Haskellga **extract** qilsa bo'ladi.
+Rocq tarixiy jihatdan eng mashhur isbot assistenti, va ko'p holda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.
+Misol uchun Rocqda **SSReflect** kutubxonasi, Iris frameworki, va bugsiz C kompillyator (CompCert) yozilgan.
+SSReflect kutubxonasi diskret matematika uchun mo'ljallangan.
+Rocqning qiziq jihatidan biri — Rocqda yozilgan kodni OCaml va Haskellga **extract** qilsa bo'ladi.
 
 ### Kitoblar
 
@@ -35,7 +41,11 @@ Rocq tarixiy jihatdan eng mashhur isbot assistenti, va ko'p holda "dasturlarni t
 
 - [Veb sahifa](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 
-Agda — bu funksional dasturlash tili bo'lib, unda isbotlar yozish dasturlar yozish bilan bir xil.  U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur bo'lib, unda siz kodingizda "teshiklarni" qoldirasiz va typelarga asoslanib Agdadan ularni to'ldirishda yordam so'raysiz.  Cubical kutubxonasi orqali Agda [HoTT](https://homotopytypetheory.org/book/)ni yaxshi qo'llab-quvvatlaydi.  Agdada boshqa tillarda yo'q ekzotik xususiyatlar ko'p.  Konstruktiv logikalar haqida o'rganmoqchi bo'lsangiz Agda yaxshi tanlov.
+Agda — bu funksional dasturlash tili bo'lib, unda isbotlar yozish dasturlar yozish bilan bir xil.
+U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur bo'lib, unda siz kodingizda "teshiklarni" qoldirasiz va typelarga asoslanib Agdadan ularni to'ldirishda yordam so'raysiz.
+Cubical kutubxonasi orqali Agda [HoTT](https://homotopytypetheory.org/book/)ni yaxshi qo'llab-quvvatlaydi.
+Agdada boshqa tillarda yo'q ekzotik xususiyatlar ko'p.
+Konstruktiv logikalar haqida o'rganmoqchi bo'lsangiz Agda yaxshi tanlov.
 
 ### Kitoblar
 
