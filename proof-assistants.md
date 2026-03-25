@@ -27,7 +27,7 @@ Konstruktiv mantiq haqida o'rganmoqchi bo'lsangiz, Agda yaxshi tanlov.
 - [Veb-sahifa](https://lean-lang.org/)
 
 Lean — klassik sof matematika uchun moslashgan isbot assistentidir.
-Lean'da **mathlib** nomli juda katta formallashtirilgan matematika kutubxonasi bor.
+Lean'da [mathlib](https://leanprover-community.github.io/mathlib-overview.html) nomli juda katta formallashtirilgan matematika kutubxonasi bor.
 Lean'da eng kuchli makros tizimlaridan biri bor va isbotlar asosan taktikalar (tactics) yordamida yoziladi.
 
 ### Kitoblar
@@ -45,8 +45,7 @@ Lean'da eng kuchli makros tizimlaridan biri bor va isbotlar asosan taktikalar (t
 - [Veb-sahifa](https://rocq-prover.org/)
 
 Rocq tarixiy jihatdan eng mashhur isbot assistentlaridan biri bo'lib, ko'p hollarda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.
-Masalan, Rocq'da **SSReflect** kutubxonasi, Iris freymvorki va xatosiz C kompilyatori (CompCert) yozilgan.
-SSReflect kutubxonasi diskret matematika uchun mo'ljallangan.
+Masalan, Rocq'da [SSReflect](https://rocq-prover.org/doc/V9.1.1/refman/proof-engine/ssreflect-proof-language.html) kutubxonasi, [Iris](https://iris-project.org/) freymvorki va [CompCert](https://compcert.org/) xatosiz C kompilyatori yozilgan.
 Rocq'ning qiziqarli jihatlaridan biri — Rocq'da yozilgan kodni OCaml va Haskell'ga **extract** qilish mumkin.
 
 ### Kitoblar
