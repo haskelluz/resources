@@ -7,9 +7,9 @@ Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabe
 
 - [Veb-sahifa](https://lean-lang.org/)
 
-Lean — klassik sof matematika uchun moslashgan assistant.
-Leanda **mathlib** nomli juda katta formallashtirilgan matematika kutubxonasi bor.
-Leanda eng kuchli makros sistema bor va taktikalar(tactics)dan foydalanib isbotlar yoziladi.
+Lean — klassik sof matematika uchun moslashgan isbot assistentidir.
+Lean'da **mathlib** nomli juda katta formallashtirilgan matematika kutubxonasi bor.
+Lean'da eng kuchli makros tizimlaridan biri bor va isbotlar asosan taktikalar (tactics) yordamida yoziladi.
 
 ### Kitoblar
 
