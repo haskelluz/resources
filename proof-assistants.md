@@ -1,6 +1,6 @@
 # Isbot assistentlari
 
-Isbot assistenti (Inglizchada "proof assistant"), yohud (interaktiv) teorema isbotlovchi (Inglizchada "(interactive) theorem prover") [formal isbot](./formal-proof.md)lar ustida ishlashga yordam beruvchi dasturlardir.
+Isbot assistenti (inglizcha: "proof assistant"), yoxud (interaktiv) teorema isbotlovchi (inglizcha: "(interactive) theorem prover"), [formal isbot](./formal-proof.md)lar ustida ishlashga yordam beradigan dasturdir.
 Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabelle) va boshqalar misol bo'la oladi.
 
 ## Lean
