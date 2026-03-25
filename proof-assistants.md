@@ -58,3 +58,7 @@ Rocq'ning qiziqarli jihatlaridan biri — Rocq'da yozilgan kodni OCaml va Haskel
 ## Isabelle
 
 - [Veb-sahifa](https://isabelle.in.tum.de/)
+
+Isabelle — isbot assistentlari uchun freymvork bo'lib, Isabelle/HOL bilan tanilgan.
+U kuchli avtomatlashtirish vositalari bilan mashhur.
+Masalan, Isabelle'dagi [Sledgehammer](https://isabelle.in.tum.de/dist/doc/sledgehammer.pdf) vositasi tashqi avtomatik teorema isbotlovchilar ([ATP](https://en.wikipedia.org/wiki/Automated_theorem_proving)'lar) va SMT solverlardan foydalanib isbot topishda yordam beradi.
