@@ -9,7 +9,7 @@ Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabe
 
 Lean — klassik sof matematika uchun moslashgan assistant.
 Leanda **mathlib** nomli juda katta formallashtirilgan matematika kutubxonasi bor.
-Leanda eng kuchli makros sistema bor, va taktikalar(tactics)dan foydalanib isbotlar yoziladi.
+Leanda eng kuchli makros sistema bor va taktikalar(tactics)dan foydalanib isbotlar yoziladi.
 
 ### Kitoblar
 
@@ -25,14 +25,14 @@ Leanda eng kuchli makros sistema bor, va taktikalar(tactics)dan foydalanib isbot
 
 - [Veb sahifa](https://rocq-prover.org/)
 
-Rocq tarixiy jihatdan eng mashhur isbot assistenti, va ko'p holda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.
-Misol uchun Rocqda **SSReflect** kutubxonasi, Iris frameworki, va bugsiz C kompillyator (CompCert) yozilgan.
+Rocq tarixiy jihatdan eng mashhur isbot assistenti va ko'p holda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.
+Misol uchun Rocqda **SSReflect** kutubxonasi, Iris frameworki va bugsiz C kompilyator (CompCert) yozilgan.
 SSReflect kutubxonasi diskret matematika uchun mo'ljallangan.
 Rocqning qiziq jihatidan biri — Rocqda yozilgan kodni OCaml va Haskellga **extract** qilsa bo'ladi.
 
 ### Kitoblar
 
-- [Programs and Proofs](https://github.com/ilyasergey/pnp) — Kichik, amaliy, va zich kitob
+- [Programs and Proofs](https://github.com/ilyasergey/pnp) — Kichik, amaliy va zich kitob
 - [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) — Rocq-ning fundamentlari haqida
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
 - [Iris tutorial](https://github.com/logsem/iris-tutorial) — Iris orqali konkurrent dasturlarning xavfsizligini isbotlash
