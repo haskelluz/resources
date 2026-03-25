@@ -5,7 +5,7 @@ Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabe
 
 ## Lean
 
-- [Veb sahifa](https://lean-lang.org/)
+- [Veb-sahifa](https://lean-lang.org/)
 
 Lean — klassik sof matematika uchun moslashgan assistant.
 Leanda **mathlib** nomli juda katta formallashtirilgan matematika kutubxonasi bor.
@@ -23,7 +23,7 @@ Leanda eng kuchli makros sistema bor va taktikalar(tactics)dan foydalanib isbotl
 
 ## Rocq
 
-- [Veb sahifa](https://rocq-prover.org/)
+- [Veb-sahifa](https://rocq-prover.org/)
 
 Rocq tarixiy jihatdan eng mashhur isbot assistenti va ko'p holda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.
 Misol uchun Rocqda **SSReflect** kutubxonasi, Iris frameworki va bugsiz C kompilyator (CompCert) yozilgan.
@@ -39,7 +39,7 @@ Rocqning qiziq jihatidan biri — Rocqda yozilgan kodni OCaml va Haskellga **ext
 
 ## Agda
 
-- [Veb sahifa](https://wiki.portal.chalmers.se/agda/pmwiki.php)
+- [Veb-sahifa](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 
 Agda — bu funksional dasturlash tili bo'lib, unda isbotlar yozish dasturlar yozish bilan bir xil.
 U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur bo'lib, unda siz kodingizda "teshiklarni" qoldirasiz va typelarga asoslanib Agdadan ularni to'ldirishda yordam so'raysiz.
@@ -58,4 +58,4 @@ Konstruktiv logikalar haqida o'rganmoqchi bo'lsangiz Agda yaxshi tanlov.
 
 ## Isabelle
 
-- [Veb sahifa](https://isabelle.in.tum.de/)
+- [Veb-sahifa](https://isabelle.in.tum.de/)
