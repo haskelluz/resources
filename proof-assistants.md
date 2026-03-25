@@ -32,10 +32,10 @@ Rocq'ning qiziqarli jihatlaridan biri — Rocq'da yozilgan kodni OCaml va Haskel
 
 ### Kitoblar
 
-- [Programs and Proofs](https://github.com/ilyasergey/pnp) — Kichik, amaliy va zich kitob
-- [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) — Rocq-ning fundamentlari haqida
+- [Programs and Proofs](https://github.com/ilyasergey/pnp) — kichik, amaliy va zich kitob
+- [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) — Rocq asoslari haqida
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
-- [Iris tutorial](https://github.com/logsem/iris-tutorial) — Iris orqali konkurrent dasturlarning xavfsizligini isbotlash
+- [Iris tutorial](https://github.com/logsem/iris-tutorial) — Iris orqali concurrent dasturlarning xavfsizligini isbotlash haqida
 
 ## Agda
 
