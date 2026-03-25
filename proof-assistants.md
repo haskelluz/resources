@@ -25,10 +25,10 @@ Lean'da eng kuchli makros tizimlaridan biri bor va isbotlar asosan taktikalar (t
 
 - [Veb-sahifa](https://rocq-prover.org/)
 
-Rocq tarixiy jihatdan eng mashhur isbot assistenti va ko'p holda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.
-Misol uchun Rocqda **SSReflect** kutubxonasi, Iris frameworki va bugsiz C kompilyator (CompCert) yozilgan.
+Rocq tarixiy jihatdan eng mashhur isbot assistentlaridan biri bo'lib, ko'p hollarda "dasturlarni tekshirish" (software verification) uchun ishlatiladi.
+Masalan, Rocq'da **SSReflect** kutubxonasi, Iris freymvorki va xatosiz C kompilyatori (CompCert) yozilgan.
 SSReflect kutubxonasi diskret matematika uchun mo'ljallangan.
-Rocqning qiziq jihatidan biri — Rocqda yozilgan kodni OCaml va Haskellga **extract** qilsa bo'ladi.
+Rocq'ning qiziqarli jihatlaridan biri — Rocq'da yozilgan kodni OCaml va Haskell'ga **extract** qilish mumkin.
 
 ### Kitoblar
 
