@@ -7,8 +7,8 @@ Bunga [Agda](#agda), [Lean](#lean), [Rocq (sobiq Coq)](#rocq), [Isabelle](#isabe
 
 - [Veb-sahifa](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 
-Agda — funksional dasturlash tili bo'lib, unda isbot yozish dastur yozish bilan bir xil.
-U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur bo'lib, unda siz kodingizda "teshiklar" qoldirasiz va tiplarga asoslanib Agda'dan ularni to'ldirishda yordam so'raysiz.
+Agda — funksional dasturlash tili bo'lib, unda isbot yozish dastur yozish bilan bir-biriga juda yaqin.
+U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur: bunda kodingizda "teshiklar" qoldirasiz va tiplarga asoslanib Agda'dan ularni to'ldirishda yordam so'raysiz.
 Cubical kutubxonasi orqali Agda [HoTT](https://homotopytypetheory.org/book/)ni yaxshi qo'llab-quvvatlaydi.
 Agda'da boshqa tillarda uchramaydigan ekzotik xususiyatlar ko'p.
 Konstruktiv mantiq haqida o'rganmoqchi bo'lsangiz, Agda yaxshi tanlov.
