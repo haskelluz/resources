@@ -37,9 +37,13 @@ Rocq tarixiy jihatdan eng mashhur isbot assistenti, va ko'p holda "dasturlarni t
 
 Agda — bu funksional dasturlash tili bo'lib, unda isbotlar yozish dasturlar yozish bilan bir xil.  U o'zining "interaktiv tahrirlash" (interactive editing) uslubi bilan mashhur bo'lib, unda siz kodingizda "teshiklarni" qoldirasiz va typelarga asoslanib Agdadan ularni to'ldirishda yordam so'raysiz.  Cubical kutubxonasi orqali Agda [HoTT](https://homotopytypetheory.org/book/)ni yaxshi qo'llab-quvvatlaydi.  Agdada boshqa tillarda yo'q ekzotik xususiyatlar ko'p.  Konstruktiv logikalar haqida o'rganmoqchi bo'lsangiz Agda yaxshi tanlov.
 
-### Resources
+### Kitoblar
 
 - [Programming Language Foundations in Agda](https://plfa.github.io/)
+
+### Interaktiv kurslar
+
+- [Let's play Agda](https://lets-play-agda.quasicoherent.io/)
 - [The HoTT Game](https://thehottgameguide.readthedocs.io/en/latest/)
 
 ## Isabelle
