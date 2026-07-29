@@ -2,7 +2,7 @@
 
 ## Kitoblar
 
-### Inliz tilida
+### Ingliz tilida
 
 #### Boshlang'ich
 
